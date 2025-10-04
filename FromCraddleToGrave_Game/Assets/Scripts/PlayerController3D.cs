@@ -118,7 +118,7 @@ public class PlayerController3D : MonoBehaviour
     private void HandleInteract()
     {
         if (!interactAction.action.WasPressedThisFrame()) return;
-        if (animator) animator.SetTrigger(grabTrigger);
+        if (animator) animator.SetBool(sitParam,true);
 
         controlBlocked = true;
         blockTimer = 3f;
