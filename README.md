@@ -103,6 +103,20 @@ Each simulated day consists of:
 
 ---
 
+## 📸 Screenshots
+
+<img width="434" height="235" alt="FCTG_2" src="https://github.com/user-attachments/assets/bc48bd4e-f89e-4124-99c6-ff68927e3738" />
+
+<img width="633" height="437" alt="FCTG_3" src="https://github.com/user-attachments/assets/845c2c07-5061-48f8-940e-0c5164cde1c6" />
+
+<img width="697" height="465" alt="FCTG_4" src="https://github.com/user-attachments/assets/b6d9f3ad-655c-4ef5-82f1-b53fea314143" />
+
+<img width="647" height="501" alt="FCTG_5" src="https://github.com/user-attachments/assets/bc0d2d88-51f1-4b72-b92c-d10ccc1f4097" />
+
+<img width="995" height="539" alt="FCTG_7" src="https://github.com/user-attachments/assets/635e6c9d-b244-4009-97f2-1557d3bb6879" />
+
+---
+
 ## 🚀 Getting Started
 
 1. Open the Unity project.  
@@ -131,4 +145,5 @@ Design & Implementation: **Paweł Dzikiewicz**
 Documentation based on the *HackYeah 2025* project materials.
 
 ---
+
 
